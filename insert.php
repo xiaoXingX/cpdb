@@ -10,6 +10,7 @@
 <body>
  <?php
  session_start();
+ exit();
  if(empty($_SESSION['username']))
 {
     header("Location:login.php");
