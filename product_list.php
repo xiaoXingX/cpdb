@@ -8,7 +8,7 @@ error_reporting ( E_ERROR  |  E_WARNING  |  E_PARSE );
  	$sKeyword 	= isset($_GET['keyword'])?$_GET['keyword']:'';
 
  	$sKeyword 	= addslashes($sKeyword); 
- 	 
+ 	exit();
  session_start();
  if(empty($_SESSION['username']))
 {

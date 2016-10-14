@@ -1,6 +1,6 @@
 <?php
 require_once('./config.php');
-			//header("Content-type:text/html;charset=utf-8");
+			 header("Content-type:text/html;charset=utf-8");
 
       if(is_uploaded_file($_FILES['company_logo']['tmp_name']))
         {

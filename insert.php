@@ -41,7 +41,7 @@
               <input type="hidden" name="company1" id="company1"/><span>相同公司输入完后，点击其它地方后，下面logo框会消失。没有消失请重新输入</span>
          </td>
       </tr>
-      <tr id="company_logo" style="display:;">
+      <tr id="company_logo" style="display">
          <td width="100" align="right">公司logo：</td>
          <td><input type="file" name="company_logo" />图片名不能为汉字
               

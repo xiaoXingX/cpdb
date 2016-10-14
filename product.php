@@ -2,9 +2,16 @@
 require_once('./config.php');
 	//header("Content-type:text/html;charset=utf-8");
 	$id=$_POST['id'];
-	/*$company=$_GET['company'];
-	$machine_room=$_GET['machine_room'];
-	$product=$_GET['product'];*/
+	switch ($_POST) {
+    case $value:
+        $company=$_GET['company'];
+                                                      	$machine_room=$_GET['machine_room'];
+                                             	$product=$_GET['product'];
+        break;
+
+    default:
+        break;
+}
 	/*$pdo=new PDO("mysql:host=localhost;dbname=dh","root","",array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
 	$pdo->query("set names utf8");*/
 	$sql="SELECT * FROM `product` WHERE id=?";
