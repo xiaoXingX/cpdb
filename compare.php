@@ -4,10 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="./tab.css" />
 <link rel="stylesheet" type="text/css" href="./czwj.css" />
-<link href="/templets/default/style/dedecms.css" rel="stylesheet" media="screen" type="text/css" />
-<script language="javascript" type="text/javascript" src="/include/dedeajax2.js"></script>
-<script language="javascript" type="text/javascript" src="/images/js/j.js" ></script>
-<script language="javascript" type="text/javascript" src="/templets/default/js/pic_scroll.js"></script>
+ 
 <style type="text/css">
   select{width:200px;}
 .cp_table tr{
