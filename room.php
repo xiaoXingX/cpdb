@@ -1,9 +1,9 @@
 <?php
 require_once('./config.php');
 	// header("Content-type:text/html;charset=utf-8");
-	$room=$_POST['room'];
-	$company=$_POST['company']; 
-	$product_type=$_POST['product_type']; 
+//	$room=$_POST['room'];
+//	$company=$_POST['company']; 
+//	$product_type=$_POST['product_type']; 
 	/*$pdo=new PDO("mysql:host=localhost;dbname=dh","root","",array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
 	$pdo->query("set names utf8");*/
 	$sql="SELECT id,product,product_price FROM `product` WHERE company=? AND machine_room=? AND product_type=? ORDER BY `product`.`product` ASC";
