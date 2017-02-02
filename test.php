@@ -9,39 +9,11 @@
 
 <body>
 <div class="top">
-   <div class="topleft">
-        <ul>
-            <li class="topleftone">参数对比</li>
-          <!-- <li>参数配置</li>
-          <li>图片对比</li>
-          <li>口碑对比</li> -->
-        </ul>
-   </div>
-   <div class="topright">
-   <!-- <img src="images/q.png" width="12" height="12" />如何使用对比？ </div>
- --></div>
+  
+ 
 <div class="table"><table width="998" border="0">
   <tr>
-    <td width="150">
-        <div class="leftone">
-             <p>产品图片</p>
-             <p>配置状况</p>
-            <!--  <p class="gray">● 标配</p>
-             <p class="gray">○ 选配</p>
-             <form id="form1" name="form1" method="post" action="">
-               <p>
-                 <label>
-                   <input type="checkbox" name="CheckboxGroup1" value="复选框" id="CheckboxGroup1_0" />
-                   隐藏相同项</label>
-                 <br />
-                 <label>
-                   <input type="checkbox" name="CheckboxGroup1" value="复选框" id="CheckboxGroup1_1" />
-                   标示最优项</label>
-                 <br />
-               </p> -->
-             </form>
-        </div>
-    </td>
+   
     <td width="212">
         <div class="selectone">
             <p><img id="logo" src="images/s_165286480154.jpg" width="120" height="90" /></p>
