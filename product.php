@@ -1,6 +1,6 @@
 <?php
 require_once('./config.php');
-	//header("Content-type:text/html;charset=utf-8");
+	//header("Content-type:text/html;charset=utf-8");sdkjlfhjkwehrnrstm,n,msdn,
 	$id=$_POST['id'];
 	switch ($_POST) {
     case $value:
