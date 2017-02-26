@@ -7,7 +7,7 @@ require_once('./config.php');
 	/*$pdo=new PDO("mysql:host=localhost;dbname=dh","root","",array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
 	$pdo->query("set names utf8");*/
 	$sql="SELECT id,product,product_price FROM `product` WHERE company=? AND machine_room=? AND product_type=? ORDER BY `product`.`product` ASC";
-	 
+//	 test wjehjsdfhdmfmm,m
 	$stmt=$pdo->prepare($sql);
 	$stmt->execute(array($company,$room,$product_type));
 	$result=$stmt->fetchAll(PDO::FETCH_ASSOC);
