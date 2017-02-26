@@ -13,7 +13,7 @@ require_once('./config.php');
         break;
 }
 	/*$pdo=new PDO("mysql:host=localhost;dbname=dh","root","",array(PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION));
-	$pdo->query("set names utf8");*/
+	$pdo->query("set names utf8");tewtssdfhgkjashlkedhqadbka*/
 	$sql="SELECT * FROM `product` WHERE id=?";
 	$stmt=$pdo->prepare($sql);
 	$stmt->execute(array($id));
