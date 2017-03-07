@@ -25,6 +25,8 @@ class Person {
         exit();
     }
     function love(){
+    $remote='remote update haha';
+    var_dump($remote);
         $local='local update';
         echo $local;
     }
