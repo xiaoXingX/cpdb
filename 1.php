@@ -25,8 +25,9 @@ class Person {
         exit();
     }
     function love(){
-     echo 'hello word';
-     echo 'i am llllll';
+     $a='dsfdsfdsfds';
+     var_dump($a);
+     echo 'hhhhaahha test3';
     }
     
 }
