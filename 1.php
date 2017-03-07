@@ -25,15 +25,8 @@ class Person {
         exit();
     }
     function love(){
- 
-     $a='dsfdsfdsfds';
-     var_dump($a);
-     echo 'hhhhaahha test3';
- 
-     echo 'hello word';
-     echo 'i am llllll';
-        echo 'test third haha hha';
- 
+        $local='local update';
+        echo $local;
     }
     
 }

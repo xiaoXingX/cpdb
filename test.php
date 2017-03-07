@@ -1,3 +1,4 @@
 <?php
-echo 'hello world';
+$a='only local update yesyes';
+var_dump($a);
 ?>
