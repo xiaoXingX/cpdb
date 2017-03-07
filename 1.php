@@ -25,7 +25,7 @@ class Person {
         exit();
     }
     function love(){
-     echo 'sdfjkhdsjk';
+     echo 'i am llllll';
     }
     
 }
