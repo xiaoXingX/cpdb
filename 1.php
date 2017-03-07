@@ -20,6 +20,9 @@ class Person {
         foreach ($a as $ky => $vaalue) {
             
         }
+        $a='sddkjhfldjslkfj';
+        var_dump($a);
+        exit();
     }
 
 }
