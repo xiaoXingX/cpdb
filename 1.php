@@ -24,5 +24,8 @@ class Person {
         var_dump($a);
         exit();
     }
-
+    function love(){
+     echo 'sdfjkhdsjk';
+    }
+    
 }
