@@ -21,5 +21,8 @@ class Person {
             
         }
     }
-
+    function love(){
+     echo 'sdfjkhdsjk';
+    }
+    
 }
