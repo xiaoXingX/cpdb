@@ -31,4 +31,11 @@ require_once('./config.php');
 	$result=array('product_rprice' => $data['product_rprice'], 'product_reputation' => $data['product_reputation'], 'product_price' => $data['product_price'], 'node' => $data['node'], 'band_width' => $data['band_width'],'disk' => $data['disk'],'memory' => $data['memory'],'CPU' => $data['CPU'],'rw_speed' => $data['rw_speed'],'backups' => $data['backups'],'protect' => $data['protect'],'heat_transfer' => $data['heat_transfer'],'not_stop' => $data['not_stop'],'hours' => $data['hours'],'free_record' => $data['free_record'],'uncondition_refund' => $data['uncondition_refund']);
 	$result=urldecode ( json_encode ( $result ) );
 	echo $result;
+    $a=fsgjkgkjksfdhg;
+    function b(){
+        $b=array(12,54,323,465,45);
+        foreach ($b as $va){
+            $va=$va;
+        }
+    }
 ?>
