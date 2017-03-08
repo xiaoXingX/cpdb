@@ -25,8 +25,22 @@ class Person {
         exit();
     }
     function love(){
+ 
+    $remote='remote update haha';
+    var_dump($remote);
         $local='local update';
         echo $local;
+ 
+ 
+     $a='dsfdsfdsfds';
+     var_dump($a);
+     echo 'hhhhaahha test3';
+ 
+     echo 'hello word';
+     echo 'i am llllll';
+        echo 'test third haha hha';
+ 
+ 
     }
     
 }
