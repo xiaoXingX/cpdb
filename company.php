@@ -20,5 +20,18 @@ foreach ( $result as $key => $value ) {
 }
 $result=urldecode ( json_encode ( $newData ) );
 echo $result;	 
-	
+function test(){
+    $a = array('dfd'=>'dfdssd');
+    echo $a;
+    switch ($a) {
+        case $value:
+
+
+            break;
+
+        default:
+            break;
+    }
+    $b = 'this is a testing';
+}	
 ?>
