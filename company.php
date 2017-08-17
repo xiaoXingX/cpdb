@@ -20,5 +20,7 @@ foreach ( $result as $key => $value ) {
 }
 $result=urldecode ( json_encode ( $newData ) );
 echo $result;	 
-	
+function test(){
+    echo "this is a testing, and its very import";
+}	
 ?>
