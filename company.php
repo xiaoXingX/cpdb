@@ -34,4 +34,7 @@ function test(){
     }
     $b = 'this is a testing';
 }	
+function test2($param) {
+    $a = "this is testing2sdfuhlk";
+}
 ?>
