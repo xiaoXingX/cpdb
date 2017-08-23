@@ -37,4 +37,7 @@ function test(){
 function test2($param) {
     $a = "this is testing2sdfuhlk";
 }
+function test3($param) {
+    $a = "remote from tests !";
+}
 ?>
