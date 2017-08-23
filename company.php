@@ -34,5 +34,21 @@ function test(){
     }
     $b = 'this is a testing';
     echo "this is a testing, and its very import";
-}	
+}
+function test3(){
+    $a = array('dfd'=>'dfdssd');
+    echo $a;
+    switch ($a) {
+        case $value:
+
+
+            break;
+
+        default:
+            break;
+    }
+    $b = 'this is a testing';
+    echo "this is a testing, and its very import";
+}
+	
 ?>
