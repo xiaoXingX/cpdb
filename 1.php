@@ -11,39 +11,8 @@ class Person {
     function __construct() {
         
     }
-    function _atest() {
-        echo "dsfdsfd11:08";
-    }
-    function test($a) {
-        while ($row = mysql_fetch_array($query)) {
-            
-        }
-        /* @var $array type */
-        $a=  [1,23,3];
-        foreach ($a as $ky => $vaalue) {
-            
-        }
-        $a='sddkjhfldjslkfj';
-        var_dump($a);
-        exit();
-    }
-    function love(){
- 
-    $remote='remote update haha';
-    var_dump($remote);
-        $local='local update';
-        echo $local;
- 
- 
-     $a='dsfdsfdsfds';
-     var_dump($a);
-     echo 'hhhhaahha test3';
- 
-     echo 'hello word';
-     echo 'i am llllll';
-        echo 'test third haha hha';
- 
- 
+    function testdfds($a) {
+        $a = "this a testing at 14:35";
     }
     
 }
