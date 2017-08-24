@@ -11,6 +11,9 @@ class Person {
     function __construct() {
         
     }
+    function _atest() {
+        echo "dsfdsfd11:08";
+    }
     function test($a) {
         while ($row = mysql_fetch_array($query)) {
             
