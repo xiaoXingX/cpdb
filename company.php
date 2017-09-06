@@ -20,8 +20,26 @@ foreach ( $result as $key => $value ) {
 }
 $result=urldecode ( json_encode ( $newData ) );
 echo $result;	 
-function assd1734($param) {
-    echo "thsiofo tesg";
-} 
+function test(){
+    $a = array('dfd'=>'dfdssd');
+    echo $a;
+    switch ($a) {
+        case $value:
+
+
+            break;
+
+        default:
+            break;
+    }
+    $b = 'this is a testing';
+    echo "this is a testing, and its very import";
+}
+function test23(){
+    $a = "this is  a test at 2017-08-23";
+}    
+function test31(){
+    $a = "this is  a test at 16:31";
+}   
 	
 ?>
