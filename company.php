@@ -41,5 +41,7 @@ function test23(){
 function test31(){
     $a = "this is  a test at 16:31";
 }   
-	
+function test1735() {
+    echo 'this is 34 at 17:36';
+}	
 ?>
